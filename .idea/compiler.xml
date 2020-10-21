@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="multithreading" />
+        <module name="comparable" />
+        <module name="functional-interfaces" />
+        <module name="Optional" />
+        <module name="factory" />
+        <module name="streams" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comparable" target="8" />
+      <module name="factory" target="6" />
+      <module name="functional-interfaces" target="8" />
+      <module name="hometask" target="1.5" />
+      <module name="multithreading" target="1.5" />
+      <module name="Optional" target="8" />
+      <module name="streams" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

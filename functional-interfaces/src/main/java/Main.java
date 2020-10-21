@@ -19,7 +19,7 @@ public class Main {
     private static <T> Consumer<T> wrap(ConsumerWrapper<T, Exception> consumerWrapper) {
         return i -> {
             try {
-                consumerWrapper.haha();
+                consumerWrapper.accept(i);
             } catch (IOException e) {
                 e.printStackTrace();
             }

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/optional/Optional.iml" filepath="$PROJECT_DIR$/optional/Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparable/comparable.iml" filepath="$PROJECT_DIR$/comparable/comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory/factory.iml" filepath="$PROJECT_DIR$/factory/factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/functional-interfaces/functional-interfaces.iml" filepath="$PROJECT_DIR$/functional-interfaces/functional-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hometask.iml" filepath="$PROJECT_DIR$/hometask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
     </modules>
   </component>
 </project>
